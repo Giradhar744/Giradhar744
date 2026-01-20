@@ -22,7 +22,7 @@ B.Tech in Information Technology at **IIIT Una** (2023-2027) | CGPA: **8.46/10**
 
 I'm a passionate ML engineer specializing in building intelligent systems using Deep Learning, NLP, and modern AI frameworks. I love working with data, creating predictive models, and deploying end-to-end ML applications with robust architectures.
 
-**Current Focus:** Machine Learning • Deep Learning • NLP • LangChain • FastAPI
+**Current Focus:** Machine Learning • Deep Learning • NLP • GenAI FrameWorks • FastAPI
 
 ---
 
@@ -47,16 +47,6 @@ I'm a passionate ML engineer specializing in building intelligent systems using 
 - **Deep Learning:** Artificial Neural Networks (ANN), Convolutional Neural Networks (CNN), Recurrent Neural Network(RNN), Transformers
 - **NLP:** Natural Language Processing, BERT, Text Classification, Question Answering, Semantic Analysis
 - **Computer Vision:** OpenCV, Image Processing, Object Detection
-
-### **MLOps & Deployment**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-- **MLOps Tools:** Docker, MLflow, DVC (Data Version Control), GitHub Actions (CI/CD)
-- **Cloud Platforms:** AWS (EC2, S3), Cloud Deployment
-- **API Development:** FastAPI, Flask
-- **Model Deployment:** Streamlit, Model Serving
 
 ### **Advanced AI & LLM Technologies**
 ![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=for-the-badge)
@@ -85,6 +75,7 @@ I'm a passionate ML engineer specializing in building intelligent systems using 
 
 ### **Database & Backend**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 - **Databases:** PostgreSQL, SQL
 - **Data Management:** Database Design, Query Optimization
@@ -119,7 +110,7 @@ I'm a passionate ML engineer specializing in building intelligent systems using 
 ## 🎯 Leadership & Extracurriculars
 
 **Joint-Secretary** - Literary & Dramatics Club (EUNOIA), IIIT Una  
-*March 2025 – Present*  
+*March 2025 – December 2025*  
 Leading and organizing literary and cultural events, managing club operations and team coordination
 
 **Design-Head** - Coding Club (FORCE), IIIT Una  
