@@ -2,9 +2,11 @@
 
 # 👋 Girdhar Gopal Kumar
 
-### Machine Learning Engineer | Data Scientist | AI Enthusiast
+### Machine Learning Engineer | Competitive Programmer | Gen AI 
 
 [![Amazon ML Scholar](https://img.shields.io/badge/Amazon%20ML%20Scholar-2025-FF9900?style=flat&logo=amazon&logoColor=white)](https://www.amazon.science/latest-news/amazon-announces-the-recipients-of-the-2024-amazon-ml-summer-school-scholarship)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Newbie-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Giradhar_Gopal_007)
+[![CodeChef](https://img.shields.io/badge/CodeChef-1★-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/giradhar_gopal)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/girdhar-gopal-kumar)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Giradhar744)
@@ -20,7 +22,7 @@ B.Tech in Information Technology at **IIIT Una** (2023-2027) | CGPA: **8.46/10**
 
 I'm a passionate ML engineer specializing in building intelligent systems using Deep Learning, NLP, and modern AI frameworks. I love working with data, creating predictive models, and deploying end-to-end ML applications with robust architectures.
 
-**Current Focus:** Machine Learning • Deep Learning • MLOps • Time-Series Forecasting • NLP
+**Current Focus:** Machine Learning • Deep Learning • NLP • LangChain • FastAPI
 
 ---
 
@@ -30,32 +32,75 @@ I'm a passionate ML engineer specializing in building intelligent systems using 
 - 📊 **Strong Academic Performance** - Maintained 8.46 CGPA while actively participating in technical projects and club activities
 
 ---
+## 🧠 Skills & Technologies
 
-## 💻 Technical Skills
+### **Programming Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-**Languages**  
-`C++` `Python` `SQL`
 
-**Machine Learning & Deep Learning**  
-`PyTorch` `TensorFlow` `Keras` `Scikit-learn` `CNNs` `RNNs` `LSTMs` `ANNs`
+### **Machine Learning & Deep Learning**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-**NLP & Advanced ML**  
-`Natural Language Processing` `BERT` `Transformers` `Text Classification`
+- **Core ML:** Supervised/Unsupervised Learning, Model Evaluation, Feature Engineering, Hyperparameter Tuning
+- **Deep Learning:** Artificial Neural Networks (ANN), Convolutional Neural Networks (CNN), Recurrent Neural Network(RNN), Transformers
+- **NLP:** Natural Language Processing, BERT, Text Classification, Question Answering, Semantic Analysis
+- **Computer Vision:** OpenCV, Image Processing, Object Detection
 
-**Data Science & Analytics**  
-`NumPy` `Pandas` `Matplotlib` `Seaborn` `Plotly` `Statistical Analysis`
+### **MLOps & Deployment**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-**ML Techniques**  
-`Linear/Logistic Regression` `SVM` `Decision Trees` `XGBoost` `Random Forest`  
-`Bagging` `Boosting` `Unsupervised Learning` `Deep Neural Networks`
+- **MLOps Tools:** Docker, MLflow, DVC (Data Version Control), GitHub Actions (CI/CD)
+- **Cloud Platforms:** AWS (EC2, S3), Cloud Deployment
+- **API Development:** FastAPI, Flask
+- **Model Deployment:** Streamlit, Model Serving
 
-**Frameworks & Tools**  
-`FastAPI` `Streamlit` `PostgreSQL` `MySQL` `Docker` `Git/GitHub` `Jupyter` `Google Colab`
+### **Advanced AI & LLM Technologies**
+![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/🕸️_LangGraph-121212?style=for-the-badge)
+![RAG](https://img.shields.io/badge/📚_RAG-FF6B6B?style=for-the-badge)
+![MCP](https://img.shields.io/badge/🔧_MCP-4A90E2?style=for-the-badge)
 
-**Core CS Fundamentals**  
-`Data Structures & Algorithms` `Database Management Systems` `Object-Oriented Programming`
+- **LangChain:** Building LLM-powered applications, AI agents, and intelligent workflows
+- **LangGraph:** Graph-based AI workflows, state management, and complex agent orchestration
+- **RAG (Retrieval-Augmented Generation):** Enhanced AI responses with external knowledge retrieval
+- **Transformers:** Hugging Face Transformers, BERT, GPT architectures, Advanced NLP models
+- **LLM Integration:** Prompt Engineering, Chain of Thought, Function Calling
+
+### **Data Science & Analytics**
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-217346?style=for-the-badge&logo=python&logoColor=white)
+
+
+- **Libraries:** NumPy, Pandas, Matplotlib, Seaborn
+- **Tools:** Jupyter Notebook, Google Colab
+- **Skills:** Data Mining, Statistical Analysis, Feature Engineering, Data Visualization
+
+
+
+### **Database & Backend**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+- **Databases:** PostgreSQL, SQL
+- **Data Management:** Database Design, Query Optimization
+
+### **Tools & Technologies**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+- **CS Core:** Data Structure & Algorithms, Object Oriented Programming, DataBase Management System
+- **Version Control:** Git, GitHub, GitHub Actions
+- **IDEs & Editors:** Jupyter Notebook, VS Code, PyCharm
+
 
 ---
+
 
 ## 📊 GitHub Statistics
 
