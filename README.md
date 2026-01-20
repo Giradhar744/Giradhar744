@@ -136,8 +136,8 @@ Class 10th | **Marks:** 86.6% | 2019-2020
 ## 💡 What I'm Working On
 
 - 🔭 Building end-to-end ML applications with FastAPI and Docker
-- 🌱 Exploring advanced Deep Learning architectures and MLOps practices
-- 👯 Open to collaborating on ML/AI projects and data science challenges
+- 🌱 Exploring advanced Deep Learning architectures and GenAI
+- 👯 Open to collaborating on AI/ML projects and New challenges
 - 💬 Ask me about machine learning, deep learning, or data science
 - 📚 Strengthening Data Structures & Algorithms for technical interviews
 - ⚡ Fun fact: I turn data into insights and algorithms into impact! 📊
@@ -160,9 +160,11 @@ I'm always excited to discuss ML/AI, data science, or collaborate on interesting
 
 <div align="center">
 
-### 💭 Random Dev Quote
+### 💭 Random ML Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://img.shields.io/badge/"Small_step_in_right_direction_beat_giant_leaps_into_the_unknown"-Gradient_Descent-purple?style=for-the-badge)
+
+
 
 ---
 
