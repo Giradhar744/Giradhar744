@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Girdhar Gopal Kumar
+# 👋 Giradhar Gopal Kumar
 
 ### Machine Learning Engineer | Competitive Programmer | Gen AI 
 
