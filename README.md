@@ -89,7 +89,6 @@ I'm a passionate ML engineer specializing in building intelligent systems using 
 - **Version Control:** Git, GitHub, GitHub Actions
 - **IDEs & Editors:** Jupyter Notebook, VS Code, PyCharm
 
-
 ---
 
 
@@ -163,14 +162,6 @@ I'm always excited to discuss ML/AI, data science, or collaborate on interesting
 ### 💭 Random ML Quote
 
 ![](https://img.shields.io/badge/"Small_step_in_right_direction_beat_giant_leaps_into_the_unknown"-Gradient_Descent-purple?style=for-the-badge)
-
-
-
----
-
-### 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Giradhar744&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
 
