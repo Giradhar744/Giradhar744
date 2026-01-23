@@ -2,7 +2,7 @@
 
 # 👋 Giradhar Gopal Kumar
 
-### Machine Learning Engineer | Competitive Programmer | Gen AI 
+### ML Engineer| Backend Engineer | Competitive Programmer | Gen AI 
 
 [![Amazon ML Scholar](https://img.shields.io/badge/Amazon%20ML%20Scholar-2025-FF9900?style=flat&logo=amazon&logoColor=white)](https://www.amazon.science/latest-news/amazon-announces-the-recipients-of-the-2024-amazon-ml-summer-school-scholarship)
 [![Flipkart GRiD 7.0](https://img.shields.io/badge/Flipkart%20GRiD%207.0-Semi--Finalist-2874F0?style=flat&logo=flipkart&logoColor=white)](https://www.flipkartcareers.com/#!/grid)
