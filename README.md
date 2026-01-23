@@ -5,7 +5,7 @@
 ### Machine Learning Engineer | Competitive Programmer | Gen AI 
 
 [![Amazon ML Scholar](https://img.shields.io/badge/Amazon%20ML%20Scholar-2025-FF9900?style=flat&logo=amazon&logoColor=white)](https://www.amazon.science/latest-news/amazon-announces-the-recipients-of-the-2024-amazon-ml-summer-school-scholarship)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Newbie-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Giradhar_Gopal_007)
+[![Flipkart GRiD 7.0](https://img.shields.io/badge/Flipkart%20GRiD%207.0-Semi--Finalist-2874F0?style=flat&logo=flipkart&logoColor=white)](https://www.flipkartcareers.com/#!/grid)
 [![CodeChef](https://img.shields.io/badge/CodeChef-2★-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/giradhar_gopal)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giradhar-gopal-kumar-45479323b/)
@@ -29,7 +29,7 @@ I'm a passionate ML engineer specializing in building intelligent systems using 
 ## 🏆 Achievements
 
 - 🎖️ **Amazon ML Summer School 2025 Scholar** - Selected among 60,000+ students nationwide for specialized ML, Deep Learning, and NLP training program
-- 🏁 **lipkart GRiD 7.0 National Semi-Finalist** — Advanced to national semi-finals of Flipkart’s flagship engineering campus challenge, solving real-world problem statements
+- 🏁 **Flipkart GRiD 7.0 National Semi-Finalist** — Advanced to national semi-finals of Flipkart’s flagship engineering campus challenge, solving real-world problem statements
 - 📊 **Strong Academic Performance** - Maintained 8.46 CGPA while actively participating in technical projects and club activities
 
 ---
