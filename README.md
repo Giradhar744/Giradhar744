@@ -109,12 +109,12 @@ I'm a passionate ML engineer specializing in building intelligent systems using 
 
 ## 🎯 Leadership & Extracurriculars
 
-**Joint-Secretary** - Literary & Dramatics Club (EUNOIA), IIIT Una  
-*March 2025 – December 2025*  
+**treasurer** - Literary & Dramatics Club (EUNOIA), IIIT Una  
+*December 2025 – Present*  
 Leading and organizing literary and cultural events, managing club operations and team coordination
 
 **Design-Head** - Coding Club (FORCE), IIIT Una  
-*March 2025 – Aug 2025*  
+*April 2025 – Aug 2025*  
 Led design initiatives for technical events, created visual content for coding competitions
 
 ---
