@@ -6,7 +6,7 @@
 
 [![Amazon ML Scholar](https://img.shields.io/badge/Amazon%20ML%20Scholar-2025-FF9900?style=flat&logo=amazon&logoColor=white)](https://www.amazon.science/latest-news/amazon-announces-the-recipients-of-the-2024-amazon-ml-summer-school-scholarship)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Newbie-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Giradhar_Gopal_007)
-[![CodeChef](https://img.shields.io/badge/CodeChef-1★-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/giradhar_gopal)
+[![CodeChef](https://img.shields.io/badge/CodeChef-2★-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/giradhar_gopal)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giradhar-gopal-kumar-45479323b/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Giradhar744)
