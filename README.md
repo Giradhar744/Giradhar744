@@ -18,7 +18,7 @@
 
 ## 🎓 About Me
 
-B.Tech in Information Technology at **IIIT Una** (2023-2027) | CGPA: **8.46/10**
+B.Tech in Information Technology at **IIIT Una** (2023-2027) | CGPA: **8.43/10**
 
 I'm a passionate ML engineer specializing in building intelligent systems using Deep Learning, NLP, and modern AI frameworks. I love working with data, creating predictive models, and deploying end-to-end ML applications with robust architectures.
 
