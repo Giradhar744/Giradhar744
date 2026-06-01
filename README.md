@@ -30,7 +30,7 @@ I'm a passionate ML engineer specializing in building intelligent systems using 
 
 - 🎖️ **Amazon ML Summer School 2025 Scholar** - Selected among 60,000+ students nationwide for specialized ML, Deep Learning, and NLP training program
 - 🏁 **Flipkart GRiD 7.0 National Semi-Finalist** — Advanced to national semi-finals of Flipkart’s flagship engineering campus challenge, solving real-world problem statements
-- 📊 **Strong Academic Performance** - Maintained 8.46 CGPA while actively participating in technical projects and club activities
+- 📊 **Strong Academic Performance** - Maintained 8.43 CGPA while actively participating in technical projects and club activities
 
 ---
 ## 🧠 Skills & Technologies
@@ -123,7 +123,7 @@ Led design initiatives for technical events, created visual content for coding c
 
 **Indian Institute of Information Technology, Una**  
 Bachelor of Technology in Information Technology  
-**CGPA:** 8.46/10 | **Duration:** Aug 2023 – May 2027
+**CGPA:** 8.43/10 | **Duration:** Aug 2023 – May 2027
 
 **Hellen School, Sitamarhi, Bihar**  
 Class 12th | **Marks:** 89% | 2020-2022
