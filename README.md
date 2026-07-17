@@ -29,7 +29,7 @@ I'm a passionate ML engineer specializing in building intelligent systems using 
 ## 🏆 Achievements
 
 - 🎖️ **Amazon ML Summer School 2025 Scholar** - Selected among 60,000+ students nationwide for specialized ML, Deep Learning, and NLP training program
-- 🏁 **Flipkart GRiD 7.0 National Semi-Finalist** — Advanced to national semi-finals of Flipkart’s flagship engineering campus challenge, solving real-world problem statements
+- 🏁 **Flipkart GRiD 7.0 National Semi-Finalist** - Advanced to national semi-finals of Flipkart’s flagship engineering campus challenge, solving real-world problem statements
 - 📊 **Strong Academic Performance** - Maintained 8.43 CGPA while actively participating in technical projects and club activities
 
 ---
